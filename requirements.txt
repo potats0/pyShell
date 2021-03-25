@@ -15,7 +15,7 @@ pefile==2017.11.5
 pycrypto==2.6.1
 PyInstaller==3.3.1
 PyQt5==5.10.1
-PyYAML==3.12
+PyYAML==5.4
 qqwry-py3==1.0.8
 records==0.5.2
 requests==2.19.1
